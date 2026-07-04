@@ -16,9 +16,13 @@ Para visualizar melhor os arquivos deste repositório, sugiro fazer o download d
 O arquivo product-backlog.pdf, pode se fazer o zoom para visualizar melhor as features. 
 
 ## URLs
-* **Lean Inception detalhada no Miro** [https://miro.com/app/board/uXjVHLmmBro=/](https://miro.com/app/board/uXjVHLmmBro=/)
 
-* **Vídeo de Apresentação** [https://www.loom.com/share/44305ef9772747ceb8a0d0a468e27a01](https://www.loom.com/share/44305ef9772747ceb8a0d0a468e27a01)
+**Lean Inception detalhada no Miro**
+
+[https://miro.com/app/board/uXjVHLmmBro=/](https://miro.com/app/board/uXjVHLmmBro=/)
+
+**Vídeo de Apresentação** 
+[https://www.loom.com/share/44305ef9772747ceb8a0d0a468e27a01](https://www.loom.com/share/44305ef9772747ceb8a0d0a468e27a01)
 
 ## Autor
 
