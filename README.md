@@ -1,11 +1,25 @@
-Esse diretório apresenta dicas para a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
+# 🎵 PLayCraft - MVP 
 
-O diretório contém os seguintes exemplos:
+Esse repositório contém os arquivos solicitados para a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
+
 
 * Arquivo README.md com as instruções para a entrega do MVP
-* Diretório do wireframe do protótipo de interface do app **PlayCraft**
-* PDF com backlog do produto e da sprint 1
+* Diretório de *wireframes/*, com os protótipos de interface do app **PlayCraft**
+* Arquivo *product-backlog.pdf*, contendo o Sequencer do lean inception, a tela do product backlog do jira e 4 features da sprint 1.
+* Arquivo *canvas-url.txt*, contém o link para a plataforma Miro, com o board do lean inception
+* Arquivo *video-url*, contém o link para o vide na plataforma Loom.com
 
-**Lean Inception detalhada no Miro** url
+## Sugestão
 
-**Vídeo de Apresentação** url
+Para visualizar melhor os arquivos deste repositório, sugiro fazer o download dos arquivos.
+
+O arquivo product-backlog.pdf, pode se fazer o zoom para visualizar melhor as features. 
+
+## URLs
+* **Lean Inception detalhada no Miro** [https://miro.com/app/board/uXjVHLmmBro=/?share_link_id=261746022801](https://miro.com/app/board/uXjVHLmmBro=/?share_link_id=261746022801)
+
+* **Vídeo de Apresentação** url
+
+## Autor
+
+- Jonathan Greco Leite [@jonathan-greco](https://www.github.com/jonathan-greco)
