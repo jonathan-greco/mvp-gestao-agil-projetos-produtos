@@ -1,4 +1,4 @@
-# 🎵 PLayCraft - MVP 
+# 🎵 PlayCraft - MVP 
 
 Esse repositório contém os arquivos solicitados para a entrega do MVP da Sprint Gestão Ágil de Projetos e Produtos.
 
