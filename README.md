@@ -7,11 +7,11 @@ Esse repositório contém os arquivos solicitados para a entrega do MVP da Sprin
 O PlayCraft é um aplicativo móvel que tem como objetivo a curadoria de músicas por contexto, visando a interação e compartilhamento de playlists entre professores, alunos e amigos próximos.
 
 ## Material do MVP
-* Arquivo README.md com as instruções para a entrega do MVP
-* Diretório de *wireframes/*, com os protótipos de interface do app **PlayCraft**
+* Arquivo README.md com as instruções para a entrega do MVP.
+* Diretório de *wireframes/*, com os protótipos de interface do app **PlayCraft**.
 * Arquivo *product-backlog.pdf*, contendo o Sequencer do lean inception, a tela do product backlog do jira e 4 histórias da sprint 1.
-* Arquivo *canvas-url.txt*, contém o link para a plataforma Miro, com o board do lean inception
-* Arquivo *video-url*, contém o link para o video na plataforma Loom.com
+* Arquivo *canvas-url.txt*, contém o link para a plataforma Miro, com o board do lean inception;
+* Arquivo *video-url*, contém o link para o vídeo de apresentação na plataforma Youtube.
 
 ## Sugestão
 
@@ -23,7 +23,7 @@ O arquivo product-backlog.pdf, pode se fazer o zoom para visualizar melhor as hi
 
 **Lean Inception detalhada no Miro**: [https://miro.com/app/board/uXjVHLmmBro=/](https://miro.com/app/board/uXjVHLmmBro=/)
 
-**Vídeo de Apresentação**: [https://youtu.be/WEIavD-gry0](https://youtu.be/WEIavD-gry0)
+**Vídeo de apresentação**: [https://youtu.be/WEIavD-gry0](https://youtu.be/WEIavD-gry0)
 
 ## Autor
 
