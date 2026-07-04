@@ -17,7 +17,7 @@ O PlayCraft é um aplicativo móvel que tem como objetivo a curadoria de música
 
 Para visualizar melhor os arquivos deste repositório, sugiro fazer o download dos arquivos.
 
-O arquivo product-backlog.pdf, pode se fazer o zoom para visualizar melhor as features. 
+O arquivo product-backlog.pdf, pode se fazer o zoom para visualizar melhor as histórias e visão geral. 
 
 ## URLs
 
