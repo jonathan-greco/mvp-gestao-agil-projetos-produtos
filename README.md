@@ -9,7 +9,7 @@ O PlayCraft é um aplicativo móvel que tem como objetivo a curadoria de música
 ## Material do MVP
 * Arquivo README.md com as instruções para a entrega do MVP
 * Diretório de *wireframes/*, com os protótipos de interface do app **PlayCraft**
-* Arquivo *product-backlog.pdf*, contendo o Sequencer do lean inception, a tela do product backlog do jira e 4 features da sprint 1.
+* Arquivo *product-backlog.pdf*, contendo o Sequencer do lean inception, a tela do product backlog do jira e 4 histórias da sprint 1.
 * Arquivo *canvas-url.txt*, contém o link para a plataforma Miro, com o board do lean inception
 * Arquivo *video-url*, contém o link para o video na plataforma Loom.com
 
